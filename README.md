@@ -1,0 +1,2 @@
+# cppconf-path-finder
+
